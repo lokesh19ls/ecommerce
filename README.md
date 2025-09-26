@@ -2,24 +2,6 @@
 
 A modern, feature-rich e-commerce mobile application built with Flutter, featuring clean architecture, state management, and seamless user experience.
 
-## 📱 Screenshots
-
-### Home Screen
-![Home Screen](assets/screenshots/home_screen.png)
-*Main product listing with search, filters, and navigation*
-
-### Product Details
-![Product Details](assets/screenshots/product_detail.png)
-*Detailed product view with images, ratings, and add to cart functionality*
-
-### Shopping Cart
-![Shopping Cart](assets/screenshots/cart_screen.png)
-*Shopping cart with item management and checkout*
-
-### User Profile
-![Profile Screen](assets/screenshots/profile_screen.png)
-*User profile with account management and settings*
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -32,8 +14,8 @@ A modern, feature-rich e-commerce mobile application built with Flutter, featuri
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flutter-ecommerce.git
-   cd flutter-ecommerce
+   git clone https://github.com/lokesh19ls/ecommerce.git
+   cd ecommerce
    ```
 
 2. **Install dependencies**
@@ -460,4 +442,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ using Flutter**# ecommerce
+**Built with ❤️ using Flutter**
