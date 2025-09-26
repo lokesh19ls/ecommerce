@@ -411,22 +411,12 @@ flutter build web --release
 - Add comments for complex logic
 - Maintain test coverage
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-- **Lead Developer**: [Your Name]
-- **UI/UX Designer**: [Designer Name]
-- **Backend Developer**: [Backend Developer Name]
 
 ## 📞 Support
 
 For support and questions:
-- **Email**: support@ecommerce-app.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/flutter-ecommerce/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/flutter-ecommerce/wiki)
+- **Email**: lokeshkanna968@gmail.com
+
 
 ## 🔄 Changelog
 
